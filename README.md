@@ -4,7 +4,8 @@
 
 ## 🎯 Objetivo
 
-Criar uma página web fictícia sobre uma clínica, usando o conhecimentos aprendidos até o momento (cerca de 60% do curso). Parte do HTML e o CSS foi disponibilazado pelo instrutor, entretanto tiveram aulas sobre estilização também.
+Criar uma página web fictícia sobre uma clínica, usando o conhecimentos aprendidos até o momento (cerca de 60% do curso).
+Aproveitei a oportunidade e criei uma cliníca de terapia para autistas. Conheço bem essa realidade, pois sou pai de uma menino do espectro
 
 ### 🆙 MINHA EXPERIêNCIA
 Desenvolvendo o projeto eu pude ver o quanto tinha absorvido do conhecimento transmitido. O que eu não lembrava me forçava a rever minhas anotações.
