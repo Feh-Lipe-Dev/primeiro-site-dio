@@ -38,13 +38,9 @@ body {
     margin: 0;
 }    
 .clinic-name {
-    width: 76%;
+    width: 800px;
     max-height: 200px;
-    border: solid 3px red;
-    position: absolute;
-}
-.description {
-    padding: 30px 0 0 0;
+    padding: 10px 0 0 100px;
 }
 .contacts {
     display: inline-block;
