@@ -1,0 +1,117 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background: repeating-linear-gradient(90deg, rgb(223, 223, 85), rgb(72, 72, 247), rgb(252, 72, 72), rgb(33, 201, 33));
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    padding: 10px 20px;
+}
+.header {
+    min-height: 150px;
+}
+.content {
+    min-height: 300px;
+    padding: 20px;
+    text-align: center;
+    color: #f1f1f1;
+}
+.footer {
+    height: 151px;
+    padding: 0;
+    margin: 0;
+}    
+.clinic-name {
+    width: 76%;
+    max-height: 200px;
+    border: solid 3px red;
+    position: absolute;
+}
+.description {
+    padding: 30px 0 0 0;
+}
+.contacts {
+    display: inline-block;
+    padding: 0 30px 0 30px ;
+    margin: 0 5px 0 5px;
+}
+.whatsapp {
+    border: solid 2px #d8d8d8;
+    border-radius: 10px;
+}
+.facebook {
+    border: solid 2px #d8d8d8;
+    border-radius: 10px;
+}
+.instagram {
+    border: solid 2px #d8d8d8;
+    border-radius: 10px;
+}
+.email {
+    border: solid 2px black;
+    border-radius: 10px;
+}
+.linkedin {
+    border: solid 2px #d8d8d8;
+    border-radius: 10px;
+}
+.contact-us {
+    width: 100px; 
+    height: 100px;
+    text-align: center;
+    font-size: large;
+}
+.header-about, .header-opening {
+    display: flex;
+}
+ul li {
+    padding: 15px;
+    font-size: large;
+}
+.about {
+    margin: -15px 0 50px 0;
+}
+table {
+    box-shadow: 12px 14px 12px 14px rgba(0, 0, 0, 0.24);
+    border: none;
+    padding: 0 0 20px 0;
+}
+th, td {
+    font-size: 20px;
+    text-align: center;
+    border: none;
+}
+.header-contact {
+    margin-left: 200px;
+}
+form {
+    margin: 15px 0 15px 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form label, input {
+    padding: 2px;
+}
+.topic{
+    padding: 0 32px 0 0;
+    margin-right: -25px;
+}
+.chose {
+    padding: 0 40px 0 20px;
+    margin-right: 12px;
+}
